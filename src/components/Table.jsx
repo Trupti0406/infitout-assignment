@@ -2,11 +2,11 @@ import React from "react";
 
 const Table = () => {
   return (
-    <div className="mx-5 mt-5" style={{ fontSize: "14px" }}>
-      <div class="table-responsive">
-        <table class="table">
+    <div className="mx-5 mt-3" style={{ fontSize: "14px" }}>
+      <div className="table-responsive">
+        <table className="table">
           <thead>
-            <tr className="text-center">
+            <tr className="text-center py-2">
               <th colSpan="8">CALLS</th>
               <th colSpan="7">PUTS</th>
             </tr>

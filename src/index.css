@@ -11,6 +11,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
-.header-2 {
-  background-color: #99b8ed !important;
+
+/* =============== CSS for basket ================= */
+.basket-table td {
+  padding: 0.5rem 0.3rem !important;
+}
+.basket-table th {
+  padding-bottom: 12px !important;
 }
